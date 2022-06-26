@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1656168721 source:c:\users\elitebook\desktop\polymorphism\main.cpp
+	<iostream>
+	"Instrument.h"
+	"Trumpet.h"
+	"Violin.h"
+
+1656167573 source:c:\users\elitebook\desktop\polymorphism\src\instrument.cpp
+	"Instrument.h"
+	<iostream>
+	<string>
+
+1656166952 c:\users\elitebook\desktop\polymorphism\include\instrument.h
+	<iostream>
+	<string>
+
+1656167960 source:c:\users\elitebook\desktop\polymorphism\src\trumpet.cpp
+	"Trumpet.h"
+	"Instrument.h"
+	<iostream>
+	<string>
+
+1656167742 c:\users\elitebook\desktop\polymorphism\include\trumpet.h
+	"Instrument.h"
+	<iostream>
+	<string>
+
+1656168318 source:c:\users\elitebook\desktop\polymorphism\src\violin.cpp
+	"Violin.h"
+	"Instrument.h"
+	<iostream>
+	<string>
+
+1656168112 c:\users\elitebook\desktop\polymorphism\include\violin.h
+	"Instrument.h"
+	<iostream>
+	<string>
+
+1656232058 source:c:\users\elitebook\desktop\polymorphism\src\figure.cpp
+	"Figure.h"
+	<iostream>
+
+1656231996 c:\users\elitebook\desktop\polymorphism\include\figure.h
+	<iostream>
+
+1656232562 source:c:\users\elitebook\desktop\polymorphism\src\circle.cpp
+	"Circle.h"
+	"Figure.h"
+	<iostream>
+	<math.h>
+
+1656232212 c:\users\elitebook\desktop\polymorphism\include\circle.h
+	<Figure.h>
+	<iostream>
+
+1656233044 source:c:\users\elitebook\desktop\polymorphism\src\rectangle.cpp
+	"Rectangle.h"
+	"Figure.h"
+	<iostream>
+
+1656232752 c:\users\elitebook\desktop\polymorphism\include\rectangle.h
+	"Figure.h"
+	<iostream>
+
+1656233565 source:c:\users\elitebook\desktop\polymorphism\src\square.cpp
+	"Square.h"
+	"Rectangle.h"
+	<iostream>
+
+1656233341 c:\users\elitebook\desktop\polymorphism\include\square.h
+	"Rectangle.h"
+	<iostream>
+
